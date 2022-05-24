@@ -1,0 +1,46 @@
+Company Name: giftpack
+Summary:  giftpack ai | the smartest corporate gifting platform . All-in-one global gifting solution that automates your gifting operation .
+Relation Graph: /Users/yswu/PycharmProjects/CMPE-257_Final/IMG/giftpack.jpg
+
+======Detail Report======
+-----Company Information-----
+Web Link:  giftpack.ai 
+About: Giftpack is an AI-powered corporate gifting CRM that digitalize your gifting.
+Industry: Artificial Intelligence Big Data E-Commerce Gift Logistics Machine Learning Software 
+-----Company Information-----
+
+
+-----Keyman Listing-----
+Name:  Archer Chiang 
+Title: CEO
+News 1 : Gifting to employees? Consider offering them your gratitude - Human Resource Executive®
+News 2 : Corporate gift spending more than doubled during the pandemic, according to Giftpack - PR Newswire
+News 3 : AI-powered service Giftpack raises funds to transform corporate and personal gifting - PR Newswire
+
+-----Keyman Listing-----
+
+
+-----Financial Information-----
+Total Round: 4
+Current Round: Seed
+Partner:  James Lu Morrissey  Amra Naidoo, Craig Dixon 
+Investor:  Draper Startup House Ventures   Umami Capital   Accelerating Asia   Open Network Lab   Nick S. Wu   Open Network Lab  
+-----Financial Information-----
+
+
+-----Company News Listing-----
+0 AI-powered service Giftpack raises funds to transform corporate and personal gifting - PR Newswire
+1 Corporate gift spending more than doubled during the pandemic, according to Giftpack - PR Newswire
+2 Barrow's Sir Woofchester presented with Ethical Business Award - The Mail
+3 Accelerating Asia announces sixth cohort startups, investments into 13 companies - Future Startup 
+4 Are you ready to join the Eco Force? – Comic book to educate children on waste separation published - Malta Independent Online
+5 Top 5 AI-Based Corporate Gifting Platforms to Use This Holiday Season - Business 2 Community
+6 Unpacking Santa's holiday mixers giftpack | packagingdigest.com - Packaging Digest
+7 Accelerating Asia picks 9 startups for fifth cohort - Tech in Asia
+8 How a Jacksonville waste employee made this four-year-old's birthday memorable - The Florida Times-Union
+9 Win the Ultimate Martini Pack for Summer Parties - Broadsheet
+10 Gifting to employees? Consider offering them your gratitude - Human Resource Executive®
+-----Company News Listing-----
+
+
+======Detail Report======
