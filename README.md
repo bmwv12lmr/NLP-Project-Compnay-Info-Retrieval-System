@@ -32,5 +32,3 @@ Allen Wu 015292667 yanshiun.wu@sjsu.edu
 
 ## NOTE
 If you want to scrape data from CrunchBase, you MUST ENABLE variable "scrape_mode" to avoid blocked by crunchbase anti-bot tools
-
-'''
