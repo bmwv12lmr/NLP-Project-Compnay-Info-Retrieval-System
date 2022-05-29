@@ -70,6 +70,10 @@ import re
 from nltk.tokenize import word_tokenize
 from gensim.utils import simple_preprocess
 nltk.download('omw-1.4')
+nltk.download('stopwords')
+nltk.download('wordnet')
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
 
 # Line Debugging
 def line():
@@ -120,7 +124,7 @@ def get_src(url_list):
         time.sleep(SLEEP)
     src_list = list()
     for url in url_list:
-        file = WORKING_DIR + "WEB/" + url.replace("https://", "").replace("/", "|").replace(".", "_") + ".pkl"
+        file = WORKING_DIR + "WEB/" + url.replace("https://", "").replace("/", "_") + ".pkl"
         source_code = None
         if os.path.exists(file):
             with open(file, "rb") as fp:
