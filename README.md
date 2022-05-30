@@ -2,7 +2,7 @@
 Allen Wu 015292667 yanshiun.wu@sjsu.edu
 
 ## Project Demo
-[Video](https://drive.google.com/file/d/15IRlutfGqMc3R0A9kv6k9N-S8Oc8_Yg9/view?usp=sharing)
+[Demo Video](https://drive.google.com/file/d/15IRlutfGqMc3R0A9kv6k9N-S8Oc8_Yg9/view?usp=sharing)  
 ![Graph](https://github.com/bmwv12lmr/CMPE-257_Final/blob/main/IMG/giftpack.jpg)
 
 ## Requirements:
